@@ -1,0 +1,752 @@
+
+Next instance: 1
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0006 seconds
+Weight: 503
+
+Running nx library...
+RT library 0.0076 seconds
+Weight: 503.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0030 seconds
+Weight: 503
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0005 seconds
+Weight: 503
+
+Next instance: 1
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0009 seconds
+Weight: 557
+
+Running nx library...
+RT library 0.0078 seconds
+Weight: 557.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0043 seconds
+Weight: 557
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0005 seconds
+Weight: 557
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0020 seconds
+Weight: 932
+
+Running nx library...
+RT library 0.0103 seconds
+Weight: 932.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0064 seconds
+Weight: 932
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0006 seconds
+Weight: 932
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0030 seconds
+Weight: 2539
+
+Running nx library...
+RT library 0.0228 seconds
+Weight: 2539.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0488 seconds
+Weight: 2539
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0012 seconds
+Weight: 2539
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0030 seconds
+Weight: 25
+
+Running nx library...
+RT library 0.0197 seconds
+Weight: 25.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0575 seconds
+Weight: 25
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0011 seconds
+Weight: 25
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0052 seconds
+Weight: 41
+
+Running nx library...
+RT library 0.0158 seconds
+Weight: 41.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0356 seconds
+Weight: 41
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0009 seconds
+Weight: 41
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0145 seconds
+Weight: 3101418
+
+Running nx library...
+RT library 0.0636 seconds
+Weight: 3101418.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0505 seconds
+Weight: 3101421
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0015 seconds
+Weight: 3101421
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0025 seconds
+Weight: 1267
+
+Running nx library...
+RT library 0.1091 seconds
+Weight: 1267.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0306 seconds
+Weight: 1267
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0011 seconds
+Weight: 1267
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0045 seconds
+Weight: 1824
+
+Running nx library...
+RT library 0.1098 seconds
+Weight: 1824.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0323 seconds
+Weight: 1808
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0015 seconds
+Weight: 1808
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0187 seconds
+Weight: 2600198
+
+Running nx library...
+RT library 0.1707 seconds
+Weight: 2600198.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.1382 seconds
+Weight: 2600198
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0021 seconds
+Weight: 2600198
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0092 seconds
+Weight: 379
+
+Running nx library...
+RT library 0.2632 seconds
+Weight: 379.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0723 seconds
+Weight: 377
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0019 seconds
+Weight: 382
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0057 seconds
+Weight: 2007
+
+Running nx library...
+RT library 0.3084 seconds
+Weight: 2007.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0698 seconds
+Weight: 2007
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0019 seconds
+Weight: 2007
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0137 seconds
+Weight: 509
+
+Running nx library...
+RT library 0.4058 seconds
+Weight: 509.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.1157 seconds
+Weight: 509
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0030 seconds
+Weight: 509
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0272 seconds
+Weight: 559
+
+Running nx library...
+RT library 0.3683 seconds
+Weight: 559.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0907 seconds
+Weight: 572
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0028 seconds
+Weight: 572
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0875 seconds
+Weight: 4600377
+
+Running nx library...
+RT library 0.5502 seconds
+Weight: 4700377.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.4067 seconds
+Weight: 4600378
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0045 seconds
+Weight: 4700378
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.1828 seconds
+Weight: 5400448
+
+Running nx library...
+RT library 0.8432 seconds
+Weight: 5400448.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.6402 seconds
+Weight: 5400450
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0057 seconds
+Weight: 5300450
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.7774 seconds
+Weight: 59
+
+Running nx library...
+RT library 2.6170 seconds
+Weight: 60.0
+
+Running primal-dual algorithm...
+RT primal-dual 28.3278 seconds
+Weight: 61
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0178 seconds
+Weight: 69
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.4043 seconds
+Weight: 6100461
+
+Running nx library...
+RT library 1.7414 seconds
+Weight: 6300461.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.8771 seconds
+Weight: 6300473
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0061 seconds
+Weight: 6300473
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0201 seconds
+Weight: 5175
+
+Running nx library...
+RT library 1.6763 seconds
+Weight: 5175.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.5285 seconds
+Weight: 5175
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0036 seconds
+Weight: 5175
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0180 seconds
+Weight: 5270
+
+Running nx library...
+RT library 1.6853 seconds
+Weight: 5270.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0701 seconds
+Weight: 5270
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0037 seconds
+Weight: 5270
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0383 seconds
+Weight: 3065
+
+Running nx library...
+RT library 3.4567 seconds
+Weight: 3065.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.1368 seconds
+Weight: 3065
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0144 seconds
+Weight: 3065
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 1.0950 seconds
+Weight: 7068
+
+Running nx library...
+RT library 24.1766 seconds
+Weight: 7068.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.2453 seconds
+Weight: 7068
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.1069 seconds
+Weight: 7068
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 2.7837 seconds
+Weight: 118
+
+Running nx library...
+RT library 3.3492 seconds
+Weight: 115.0
+
+Running primal-dual algorithm...
+RT primal-dual 12.1208 seconds
+Weight: 120
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0175 seconds
+Weight: 120
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0328 seconds
+Weight: 632
+
+Running nx library...
+RT library 4.2781 seconds
+Weight: 632.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.4313 seconds
+Weight: 622
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0076 seconds
+Weight: 622
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.6252 seconds
+Weight: 5800406
+
+Running nx library...
+RT library 5.4668 seconds
+Weight: 5800406.0
+
+Running primal-dual algorithm...
+RT primal-dual 2.1095 seconds
+Weight: 5800411
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0093 seconds
+Weight: 5800411
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.1106 seconds
+Weight: 952
+
+Running nx library...
+RT library 5.9131 seconds
+Weight: 952.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.9654 seconds
+Weight: 950
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0086 seconds
+Weight: 950
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.2303 seconds
+Weight: 902
+
+Running nx library...
+RT library 10.1538 seconds
+Weight: 902.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.6198 seconds
+Weight: 905
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0107 seconds
+Weight: 905
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0756 seconds
+Weight: 125
+
+Running nx library...
+RT library 30.2982 seconds
+Weight: 125.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.2432 seconds
+Weight: 125
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0133 seconds
+Weight: 125
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0821 seconds
+Weight: 86
+
+Running nx library...
+RT library 37.7374 seconds
+Weight: 86.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.1840 seconds
+Weight: 86
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0179 seconds
+Weight: 86
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0907 seconds
+Weight: 39
+
+Running nx library...
+RT library 57.4003 seconds
+Weight: 39.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.9611 seconds
+Weight: 39
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0344 seconds
+Weight: 39
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.4102 seconds
+Weight: 17
+
+Running nx library...
+RT library 236.6579 seconds
+Weight: 18.0
+
+Running primal-dual algorithm...
+RT primal-dual 1.6039 seconds
+Weight: 19
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.1898 seconds
+Weight: 19
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.3476 seconds
+Weight: 1649
+
+Running nx library...
+RT library 137.2389 seconds
+Weight: 1649.0
+
+Running primal-dual algorithm...
+RT primal-dual 10.0154 seconds
+Weight: 1652
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0472 seconds
+Weight: 1622
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.9330 seconds
+Weight: 1446
+
+Running nx library...
+RT library 217.7658 seconds
+Weight: 1446.0
+
+Running primal-dual algorithm...
+RT primal-dual 7.3529 seconds
+Weight: 1473
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0516 seconds
+Weight: 1488
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.2614 seconds
+Weight: 2191
+
+Running nx library...
+RT library 373.1271 seconds
+Weight: 2191.0
+
+Running primal-dual algorithm...
+RT primal-dual 13.3827 seconds
+Weight: 2129
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0635 seconds
+Weight: 2194
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 111.8598 seconds
+Weight: 5527
+
+Running nx library...
+RT library 901.9922 seconds
+Weight: 5501.0
+
+Running primal-dual algorithm...
+RT primal-dual 28.3294 seconds
+Weight: 5533
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.1153 seconds
+Weight: 5492
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 111.1936 seconds
+Weight: 5638
+
+Running nx library...
+RT library 1051.6631 seconds
+Weight: 5638.0
+
+Running primal-dual algorithm...
+RT primal-dual 27.0820 seconds
+Weight: 5656
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.1281 seconds
+Weight: 5663
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 149.6524 seconds
+Weight: 6875
+
+Running nx library...
+RT library 1670.9034 seconds
+Weight: 6857.0
+
+Running primal-dual algorithm...
+RT primal-dual 43.8775 seconds
+Weight: 6864
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.1395 seconds
+Weight: 6871
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0002 seconds
+Weight: 11
+
+Running nx library...
+RT library 0.0011 seconds
+Weight: 11.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0007 seconds
+Weight: 11
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0003 seconds
+Weight: 11
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0002 seconds
+Weight: 11
+
+Running nx library...
+RT library 0.0009 seconds
+Weight: 11.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0007 seconds
+Weight: 11
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0002 seconds
+Weight: 11
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0001 seconds
+Weight: 11
+
+Running nx library...
+RT library 0.0008 seconds
+Weight: 11.0
+Running naive heuristic...
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0001 seconds
+Weight: 11
+
+Running nx library...
+RT library 0.0006 seconds
+Weight: 11.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0004 seconds
+Weight: 11
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0002 seconds
+Weight: 11
+
+Next instance
+
+Running repetitive shortest path heuristic...
+RT RSPH 0.0001 seconds
+Weight: 101
+
+Running nx library...
+RT library 0.0008 seconds
+Weight: 101.0
+
+Running primal-dual algorithm...
+RT primal-dual 0.0010 seconds
+Weight: 101
+
+Running Mehlhorn algorithm...
+RT Mehlhorn 0.0002 seconds
+Weight: 101
+
+Next instance
+

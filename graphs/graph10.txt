@@ -1,0 +1,42 @@
+Grid graph
+SECTION Graph
+Nodes 20
+Edges 28
+E 1 2 2
+E 1 11 1
+E 2 3 2
+E 2 12 2
+E 3 4 2
+E 3 13 2
+E 4 5 2
+E 4 14 2
+E 5 6 2
+E 5 15 2
+E 6 7 2
+E 6 16 2
+E 7 8 2
+E 7 17 2
+E 8 9 2
+E 8 18 2
+E 9 10 2
+E 9 19 2
+E 10 20 2
+E 11 12 2
+E 12 13 2
+E 13 14 2
+E 14 15 2
+E 15 16 2
+E 16 17 2
+E 17 18 2
+E 18 19 2
+E 19 20 2
+END
+
+SECTION Terminals
+Terminals 3
+T 1
+T 20
+T 11
+END
+
+EOF

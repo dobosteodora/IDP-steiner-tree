@@ -1,0 +1,27 @@
+Ladder 5
+SECTION Graph
+Nodes 10
+Edges 13
+E 1 2 43
+E 1 6 39
+E 2 3 15
+E 2 7 25
+E 3 4 46
+E 3 8 43
+E 4 5 31
+E 4 9 44
+E 5 10 5
+E 6 7 48
+E 7 8 49
+E 8 9 31
+E 9 10 48
+END
+
+SECTION Terminals
+Terminals 3
+T 8
+T 2
+T 10
+END
+
+EOF
