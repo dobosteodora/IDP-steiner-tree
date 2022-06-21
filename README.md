@@ -8,7 +8,7 @@ Implemented:
 4. Reinforcement learning algorithm based on the paper https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9516291
 
 Evaluation:
-1. Run all algorithms on PACE instances
+1. Run all algorithms on PACE instances + on small generated graphs 
 2. Compute running time for the first 3 algorithms on PACE instances
 3. Early stopping mechanism for the primal-dual algorithm - compare results with the results computed by the primal-dual algorithm without early stopping
 4. Cherrypick: 
