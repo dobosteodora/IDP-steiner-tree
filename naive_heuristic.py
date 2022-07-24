@@ -5,7 +5,6 @@ import networkx as nx
 from clustering import nearest_terminal_clustering
 
 
-# CURRENTLY USELESS FILE
 # implements a very naive heuristic; there is no guarantee that the resulting steiner tree is valid
 
 
