@@ -60,7 +60,6 @@ def nearest_terminal_clustering(graph, terminals):
     return clusters
 
 
-# TODO make sure the terminals are in different clusters - DOES NOT WORK AT THE MOMENT
 def kMeans_clustering(graph, terminals):
     eigenvectors = get_first_eigenvectors(graph)
 
