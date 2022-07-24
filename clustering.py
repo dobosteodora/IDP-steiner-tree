@@ -77,8 +77,6 @@ def kMeans_clustering(graph, terminals):
     return labels
 
 
-# TODO make sure the terminals are in different clusters, initial centroids should be the terminals...
-# DOES NOT WORK AT THE MOMENT
 def kMedoids_clustering(graph, terminals):
     eigenvectors = get_first_eigenvectors(graph)
 
