@@ -90,5 +90,4 @@ print("Solution is valid: {}\n".format(valid_solution(steiner_tree, t)))
 # steiner_tree, weight = dqn(g, t, len(g.nodes))
 # print("Weight: {}".format(weight))
 # print("Solution is valid: {}\n".format(valid_solution(steiner_tree, t)))
-#
 
